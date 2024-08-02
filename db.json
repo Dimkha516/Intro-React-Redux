@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "author": "Patrice",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "id": "1",
+      "likes": 33
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "author": "Samia",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 16,
+      "id": "2"
+    },
+    {
+      "author": "user42",
+      "title": "Lorem ipsum dolor",
+      "likes": 107,
+      "id": "3",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatu. Salut"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "user42",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 107,
+      "id": "3"
+    },
+    {
+      "title": "Nouveau post",
+      "author": "user42",
+      "content": "Salut",
+      "id": "bQYZnzB",
+      "likes": 3
+    },
+    {
+      "title": "Encore un post",
+      "author": "user42",
+      "content": "Comment allez vous?",
+      "id": "WzJsIRL",
+      "likes": 2
+    },
+    {
+      "title": "Njj",
+      "author": "user42",
+      "content": "Salut tout le monde",
+      "id": "4ZVzuKw",
+      "likes": 2
+    },
+    {
+      "title": "YUP",
+      "author": "user42",
+      "content": "Geek in programing",
+      "id": "zBy5p_x",
+      "likes": 3
+    },
+    {
+      "title": "Nouveau post",
+      "author": "user42",
+      "content": "Salut les amis",
+      "id": "7nJ3D_i",
+      "likes": 5
+    },
+    {
+      "title": "Encore un nouveau post",
+      "author": "user42",
+      "content": "Salut les copains",
+      "id": "FDgR4yg",
+      "likes": 4
+    },
+    {
+      "title": "Visite",
+      "author": "user42",
+      "content": "Venez visiter nos locaux gratuitement",
+      "id": "Wb33hR0",
+      "likes": 5
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 40,
+      "age": 30,
+      "id": 1
+    }
+  ]
+}
